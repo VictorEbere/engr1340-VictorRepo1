@@ -11,11 +11,3 @@ If we add 5 and 3:
 5 + 3 = 8
 
 Therefore, the sum is **8**.
-
-## Example 2
-
-If we add 10 and 7:
-
-10 + 7 = 17
-
-Therefore, the sum is **17**.
