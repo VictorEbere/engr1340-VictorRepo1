@@ -1,2 +1,3 @@
-# engr1340-VictorRepo1
-Fork-Based Collaboration
+# ENGR 1340 Assignment 3 - Repo 1
+
+**Name:** Victor Ebere
